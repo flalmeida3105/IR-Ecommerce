@@ -24,13 +24,18 @@ Follow the link below for further details about the project
 
 https://github.com/flalmeida3105/IR-Ecommerce 
 
+
 ## Built With
 The following languages were used to build this project. 
 
 *  JavaScript, Node, MySql, Sequelize 
 
 ## Live Demo
- <img src="../assets/images/mydemo.gif" width="550" height="500"> 
+ <img src="./assets/images/mydemo.gif" width="960" height="540"> 
+
+
+A full version of the live demo is available [here.](https://drive.google.com/file/d/1Ip6dCT5SKF2sZCAJumrDlrRYIwDbIhwA/view?usp=sharing)
+
 
 ## Setup
 Please follow the step by step below to implement this project. 
